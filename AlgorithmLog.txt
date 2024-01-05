@@ -1,0 +1,292 @@
+TieMax: 10
+Games until reached tieMax: 12
+Randomization num: 1000
+WinIndexType: percentage
+TieMax: 10
+Games until reached tieMax: 26
+Randomization num: 1000
+WinIndexType: percentage
+TieMax: 10
+Games until reached tieMax: 31
+Randomization num: 1000
+WinIndexType: percentage
+TieMax: 10
+Games until reached tieMax: 11
+Randomization num: 1000
+WinIndexType: percentage
+TieMax: 10
+Games until reached tieMax: 17
+Randomization num: 1000
+WinIndexType: percentage
+TieMax: 10
+Games until reached tieMax: 14
+Randomization num: 1000
+WinIndexType: percentage
+TieMax: 10
+Games until reached tieMax: 12
+Randomization num: 1000
+WinIndexType: percentage
+TieMax: 10
+Games until reached tieMax: 13
+Randomization num: 1000
+WinIndexType: percentage
+TieMax: 10
+Games until reached tieMax: 11
+Randomization num: 1000
+WinIndexType: percentage
+TieMax: 10
+Games until reached tieMax: 15
+Randomization num: 1000
+WinIndexType: percentage
+TieMax: 10
+Games until reached tieMax: 20
+Randomization num: 1000
+WinIndexType: percentage
+TieMax: 10
+Games until reached tieMax: 14
+Randomization num: 1000
+WinIndexType: percentage
+TieMax: 10
+Games until reached tieMax: 11
+Randomization num: 1000
+WinIndexType: percentage
+TieMax: 10
+Games until reached tieMax: 11
+Randomization num: 100
+WinIndexType: percentage
+TieMax: 10
+Games until reached tieMax: 26
+Randomization num: 100
+WinIndexType: percentage
+TieMax: 10
+Games until reached tieMax: 32
+Randomization num: 100
+WinIndexType: percentage
+TieMax: 10
+Games until reached tieMax: 16
+Randomization num: 100
+WinIndexType: percentage
+TieMax: 10
+Games until reached tieMax: 27
+Randomization num: 100
+WinIndexType: percentage
+TieMax: 10
+Games until reached tieMax: 43
+Randomization num: 100
+WinIndexType: percentage
+TieMax: 10
+Games until reached tieMax: 58
+Randomization num: 100
+WinIndexType: percentage
+TieMax: 10
+Games until reached tieMax: 25
+Randomization num: 100
+WinIndexType: percentage
+TieMax: 10
+Games until reached tieMax: 22
+Randomization num: 100
+WinIndexType: percentage
+TieMax: 10
+Games until reached tieMax: 16
+Randomization num: 100
+WinIndexType: percentage
+TieMax: 10
+Games until reached tieMax: 11
+Randomization num: 100
+WinIndexType: percentage
+TieMax: 10
+Games until reached tieMax: 32
+Randomization num: 100
+WinIndexType: percentage
+TieMax: 10
+Games until reached tieMax: 19
+Randomization num: 100
+WinIndexType: percentage
+TieMax: 10
+Games until reached tieMax: 20
+Randomization num: 100
+WinIndexType: percentage
+TieMax: 10
+Games until reached tieMax: 11
+Randomization num: 100
+WinIndexType: percentage
+TieMax: 10
+Games until reached tieMax: 14
+Randomization num: 100
+WinIndexType: percentage
+TieMax: 10
+Games until reached tieMax: 14
+Randomization num: 100
+WinIndexType: percentage
+TieMax: 10
+Games until reached tieMax: 21
+Randomization num: 100
+WinIndexType: percentage
+TieMax: 10
+Games until reached tieMax: 11
+Randomization num: 100
+WinIndexType: percentage
+TieMax: 10
+Games until reached tieMax: 11
+Randomization num: 100
+WinIndexType: percentage
+TieMax: 10
+Games until reached tieMax: 129
+Randomization num: 10
+WinIndexType: percentage
+TieMax: 10
+Games until reached tieMax: 205
+Randomization num: 10
+WinIndexType: percentage
+TieMax: 10
+Games until reached tieMax: 78
+Randomization num: 10
+WinIndexType: percentage
+TieMax: 10
+Games until reached tieMax: 330
+Randomization num: 10
+WinIndexType: percentage
+TieMax: 10
+Games until reached tieMax: 392
+Randomization num: 10
+WinIndexType: percentage
+TieMax: 10
+Games until reached tieMax: 204
+Randomization num: 10
+WinIndexType: percentage
+TieMax: 10
+Games until reached tieMax: 184
+Randomization num: 10
+WinIndexType: percentage
+TieMax: 10
+Games until reached tieMax: 315
+Randomization num: 10
+WinIndexType: percentage
+TieMax: 10
+Games until reached tieMax: 311
+Randomization num: 10
+WinIndexType: percentage
+TieMax: 10
+Games until reached tieMax: 418
+Randomization num: 10
+WinIndexType: percentage
+TieMax: 10
+Games until reached tieMax: 120
+Randomization num: 10
+WinIndexType: percentage
+TieMax: 10
+Games until reached tieMax: 328
+Randomization num: 10
+WinIndexType: percentage
+TieMax: 10
+Games until reached tieMax: 418
+Randomization num: 10
+WinIndexType: percentage
+TieMax: 10
+Games until reached tieMax: 310
+Randomization num: 10
+WinIndexType: percentage
+TieMax: 10
+Games until reached tieMax: 75
+Randomization num: 10
+WinIndexType: percentage
+TieMax: 10
+Games until reached tieMax: 140
+Randomization num: 10
+WinIndexType: percentage
+TieMax: 10
+Games until reached tieMax: 465
+Randomization num: 10
+WinIndexType: percentage
+TieMax: 10
+Games until reached tieMax: 171
+Randomization num: 10
+WinIndexType: percentage
+TieMax: 10
+Games until reached tieMax: 13
+Randomization num: 10
+WinIndexType: percentage
+TieMax: 10
+Games until reached tieMax: 52
+Randomization num: 10
+WinIndexType: percentage
+TieMax: 10
+Games until reached tieMax: 198
+Randomization num: 10
+WinIndexType: percentage
+TieMax: 10
+Games until reached tieMax: 1325
+Randomization num: 10
+WinIndexType: percentage
+TieMax: 10
+Games until reached tieMax: 392
+Randomization num: 10
+WinIndexType: percentage
+TieMax: 10
+Games until reached tieMax: 278
+Randomization num: 10
+WinIndexType: percentage
+TieMax: 10
+Games until reached tieMax: 341
+Randomization num: 10
+WinIndexType: percentage
+TieMax: 10
+Games until reached tieMax: 151
+Randomization num: 10
+WinIndexType: percentage
+TieMax: 10
+Games until reached tieMax: 223
+Randomization num: 10
+WinIndexType: percentage
+TieMax: 10
+Games until reached tieMax: 498
+Randomization num: 10
+WinIndexType: percentage
+TieMax: 10
+Games until reached tieMax: 477
+Randomization num: 10
+WinIndexType: percentage
+TieMax: 10
+Games until reached tieMax: 216
+Randomization num: 10
+WinIndexType: percentage
+TieMax: 10
+Games until reached tieMax: 26
+Randomization num: 10
+WinIndexType: percentage
+TieMax: 10
+Games until reached tieMax: 86
+Randomization num: 10
+WinIndexType: percentage
+TieMax: 10
+Games until reached tieMax: 260
+Randomization num: 10
+WinIndexType: percentage
+TieMax: 10
+Games until reached tieMax: 342
+Randomization num: 10
+WinIndexType: percentage
+TieMax: 10
+Games until reached tieMax: 422
+Randomization num: 10
+WinIndexType: percentage
+TieMax: 10
+Games until reached tieMax: 377
+Randomization num: 10
+WinIndexType: percentage
+TieMax: 10
+Games until reached tieMax: 219
+Randomization num: 10
+WinIndexType: percentage
+TieMax: 10
+Games until reached tieMax: 475
+Randomization num: 10
+WinIndexType: percentage
+TieMax: 10
+Games until reached tieMax: 144
+Randomization num: 10
+WinIndexType: percentage
+TieMax: 10
+Games until reached tieMax: 461
+Randomization num: 10
+WinIndexType: percentage
